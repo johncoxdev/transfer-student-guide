@@ -15,8 +15,8 @@ This guide was written for transfer students attending [University of Houston](h
 **3. I want to meet new people & possibly make new friends**
 > JOIN CLUBS/ORGS! This is probably one of the most important things I will tell you for making/meeting friends. You can go on the [GetInvolved website](https://uh.campuslabs.com/engage/organizations) and find all the student organizations currently at UH. _Hint: You should join CougarCS_ 😉
 
-**4.** I'm nervous about meeting new people. How can I meet new people when they all know one another 
-> CougarCS has developed a system of ambassadors 
+**4.** I'm shy about meeting new people. How can I meet new people when they all know one another already? 
+> CougarCS has develop a system of ambassadors! One man and woman have been selected to be the designated person for all new people who prefer to slowly integrate themselves. You can find out the ambassadors are by looking on the [CougarCS Discord](https://discord.gg/wEagwaXS7F) under the Officer's channel.
 
 **Course Codes:**
 | Course Code | Course Number | 
