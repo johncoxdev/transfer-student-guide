@@ -19,7 +19,7 @@ This guide was written for transfer students attending [University of Houston](h
 > CougarCS has develop a system of ambassadors! One man and woman have been selected to be the designated person for all new people who prefer to slowly integrate themselves. You can find out the ambassadors are by looking on the [CougarCS Discord](https://discord.gg/wEagwaXS7F) under the Officer's channel.
 
 **Course Codes:**
-| Course Code | Course Number | 
+| Course Code | Course Name | 
 | --- | --- | 
 | COSC 1336 | Computer Science & Programming |  
 | COSC 1437 | Introduction to Programming | 
