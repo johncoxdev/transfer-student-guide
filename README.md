@@ -18,6 +18,9 @@ This guide was written for transfer students attending [University of Houston](h
 **4.** I'm shy about meeting new people. How can I meet new people when they all know one another already? 
 > CougarCS has develop a system of ambassadors! One man and woman have been selected to be the designated person for all new people who prefer to slowly integrate themselves. You can find out the ambassadors are by looking on the [CougarCS Discord](https://discord.gg/wEagwaXS7F) under the Officer's channel.
 
+**5.** How does my GPA work as a transfer student
+> UH doesnt take your previous GPA from any other institution into consideration. When you transfer to UH, you have no GPA. You start from the beginning, so with this in mind. Do NOT get D's or C's (if possible) in your classes. Always strive to do your best in your classes, when you notice yourself saying "I'll do this tomorrow" your slacking has already started. Create a schedule and stand by it. 
+
 **Course Codes:**
 | Course Code | Course Name | 
 | --- | --- | 
