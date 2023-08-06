@@ -50,7 +50,7 @@ This guide was written for transfer students attending [University of Houston](h
 | COSC 4390 | Introduction to Internet Computing | 
 | COSC 4393 | Introduction to Digital Imaging Processing | 
 | COSC 4397 | Selected Topics in Computer Science | 
-| N/A | Below or SPECIFIC to Senior Sequence | 
+| N/A | Below are SPECIFIC to Senior Sequence | 
 | COSC 4354 | Software Development Practices | 
 | COSC 4337 | Data Science II |
 
