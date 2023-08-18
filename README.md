@@ -21,10 +21,10 @@ This guide was written for transfer students attending [University of Houston](h
 **5.** How does my GPA work as a transfer student
 > UH doesnt take your previous GPA from any other institution into consideration. When you transfer to UH, you have no GPA. You start from the beginning, so with this in mind. Do NOT get D's or C's (if possible) in your classes. Always strive to do your best in your classes, when you notice yourself saying "I'll do this tomorrow" your slacking has already started. Create a schedule and stand by it. 
 
-**8.** I want an internship, how do I get one?
+**7.** I want an internship, how do I get one?
 > Start creating a resume. If you have projects under your belt its even better because it shows that you have a creative aspect and engineering aspect into creating the programs/softwares. If you don't have projects, start creating some. You will need to show recruiters that you can make something and display those skills. Lastly, start learning leetcode, since you'll be tested on your understanding with data structures and algorithms. Once you've done all that, start applying everywhere! Typically appliactions for the summer of the NEXT year will release the previous fall. (Ex: Summer 2024 internships, applications will release on August/September 2023). Apply to large companies and start up companies because you may never know what you will get! Good Luck!
 
-**7.** Everyone is so smart and have projects. I feel like I'm nothing.
+**8.** Everyone is so smart and have projects. I feel like I'm nothing.
 > First of all, you're not nothing. We all were in a place where we thought everyone so much better. So with that, CREATE!. Start making projects, learning leetcode, or whatever that makes you happy and help advance you academically. If you want to get an internship and don't have projects under your belt, so creating projects like websites, social media apps, research, or something that shows companies you are a innovative student. <ins>If you need help, ask for help, don't be scared to ask for help!</ins>
 
 **Course Codes:**
