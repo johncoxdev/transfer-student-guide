@@ -1,6 +1,6 @@
 # Transfer Student Guide  
 _Created on August 4, 2023  
-Last Edited on August 6, 2023_
+Last Edited on August 17, 2023_
 
 ## Introduction
 This guide was written for transfer students attending [University of Houston](https://www.uh.edu/). Written by a transfer student, I'll attempt to answer most of the common questions I see being asked in regards towards UH, or the Computer Science program, degree, and department.
